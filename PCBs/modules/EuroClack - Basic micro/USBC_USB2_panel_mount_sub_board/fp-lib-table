@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USBC_USB2_panel_mount_sub_board")(type "KiCad")(uri "${KIPRJMOD}/USBC_USB2_panel_mount_sub_board.pretty")(options "")(descr ""))
+)
